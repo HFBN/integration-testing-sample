@@ -1,0 +1,11 @@
+2021-11-19 14:12:18,563 [INFO] Received POST request with payload: {'features': [4.1, 2.8, 2.3, 0.9]}.
+2021-11-19 14:12:18,564 [INFO] Extracted features: [[4.1 2.8 2.3 0.9]].
+2021-11-19 14:12:18,566 [INFO] Made prediction 0.
+2021-11-19 14:12:18,567 [INFO] Sending response with payload: {'result': '0'}.
+2021-11-19 14:12:31,445 [INFO] Received POST request with payload: {'features': '[4.1, 2.8, 2.3, 0.9]'}.
+2021-11-19 14:12:31,447 [INFO] Extracted features: [['[4.1, 2.8, 2.3, 0.9]']].
+2021-11-19 14:12:31,448 [WARNING] could not convert string to float: '[4.1, 2.8, 2.3, 0.9]'
+2021-11-19 14:12:44,904 [INFO] Received POST request with payload: {'features': [4.3, 2.1, 1.9, 0.8]}.
+2021-11-19 14:12:44,905 [INFO] Extracted features: [[4.3 2.1 1.9 0.8]].
+2021-11-19 14:12:44,908 [INFO] Made prediction 1.
+2021-11-19 14:12:44,909 [INFO] Sending response with payload: {'result': '1'}.
